@@ -1,0 +1,13 @@
+target,split,seed,MAE,RMSE,R2
+abs,random,42,9.8,16.22,0.97
+abs,random,0,9.6,15.4,0.98
+abs,random,1,9.32,15.95,0.97
+abs,dye,42,16.95,26.81,0.93
+abs,dye,0,16.97,26.6,0.93
+abs,dye,1,18.35,27.74,0.92
+abs,scaffold,42,26.47,38.76,0.83
+abs,scaffold,0,27.29,110.93,-0.37
+abs,scaffold,1,21.81,31.49,0.87
+emi,random,42,14.54,23.02,0.94
+emi,random,0,13.82,21.73,0.94
+emi,random,1,14.13,22.86,0.95

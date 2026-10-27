@@ -1,0 +1,22 @@
+# raw data is not redistributed; download it from the original publication
+data/raw/
+*.zip
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Chemprop training folders (checkpoints, logs)
+**/trainer_logs/
+**/checkpoints/
+lightning_logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# data folder: upload only the README
+data/*
+!data/README.md
+*.npy

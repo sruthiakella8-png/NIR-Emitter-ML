@@ -1,0 +1,5 @@
+,MAE overall,MAE overall,R2,R2,MAE <500,MAE <500,MAE 500-650,MAE 500-650,MAE >=650,MAE >=650,MAE >=700,MAE >=700,bias >=700,bias >=700
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,,,,,,,
+D-MPNN,33.21,3.04,0.74,0.06,27.14,1.59,39.08,3.84,45.15,9.42,51.49,17.22,-33.58,22.78
+XGBoost,34.8,4.07,0.73,0.04,29.94,3.52,37.14,3.02,57.11,13.03,69.46,19.45,-67.38,20.35
